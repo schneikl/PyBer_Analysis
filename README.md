@@ -22,7 +22,7 @@ Following the analysis, the line chart below give a sample of the findings that 
 
 *If the test fails, and urban areas are underserved and total fares declines too much, reallocate some drivers in the suburban area back to urban areas or increase recruitment in those areas if the growth in suburbs and rural looks promising but has yet to reach the believed potential.
 
-![Pyber_Fare_Summary](Pyber_fare_summary.PNG) 
+![Pyber_Fare_Summary](Pyber_fare_summary.png) 
 
 
 ```bash
